@@ -9,23 +9,9 @@ The main challenge is that these issues don’t point to one clear cause. Instea
 4. Uncover diversity and inclusion insights through workforce demographics.
 5. Deliver data-driven recommendations to support strategic HR decisions.
 # Project Process
-A. Data Preparation & Cleaning
-
-i. Reviewed the dataset to ensure data completeness, consistency, and accuracy across key HR variables.
-
-ii. Cleaned and standardized employee information (e.g., department, role, gender, tenure, salary, and performance) to ensure reliable analysis.
-
-B. Data Analysis & Insight Development
-
-i. Analyzed workforce data to identify patterns in attrition, performance, compensation, and demographics.
-ii. Examined relationships between key variables to uncover drivers of turnover, performance gaps, and compensation differences, and translated these patterns into clear, business-relevant insights.
-
-
-C. Insight-to-Action Framework
-
-i. Consolidated insights into an Insight-to-Action framework to connect analytical findings with business risks and opportunities.
-
-ii. Developed data-driven strategic HR recommendations aligned with retention, performance improvement, compensation fairness, and inclusion objectives.
+1. Reviewed the dataset to check for missing values, standardized inconsistent entries, and created clear category groupings for attrition, tenure, salary, and age.
+2. Analyzed patterns and relationships between variables using pivot-based analysis to uncover meaningful insights from the data.
+3. Translated insights into actions for each project goal by applying an Insight-to-Action framework to develop strategic, data-driven HR recommendations.
 # Dashboard
 [Dashboard](https://github.com/mulyawatiaisyahlani-star/hr-analysis/blob/main/data%20and%20framework%20analysis_hr.xlsx)
 # Project Insight
