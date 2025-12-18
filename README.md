@@ -27,7 +27,7 @@ i. Consolidated insights into an Insight-to-Action framework to connect analytic
 
 ii. Developed data-driven strategic HR recommendations aligned with retention, performance improvement, compensation fairness, and inclusion objectives.
 # Dashboard
-
+[Dashboard](https://github.com/mulyawatiaisyahlani-star/hr-analysis/blob/main/data%20and%20framework%20analysis_hr.xlsx)
 # Project Insight
 1. Overall attrition stands at 11.88%, with significantly higher turnover in Farm Operations and Food Processing, indicating retention risks in core operational functions.
 2. Employees with 0–2 years of tenure experience the highest attrition (17.25%), highlighting early tenure as a critical retention phase.
